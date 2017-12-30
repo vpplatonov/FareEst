@@ -1,0 +1,11 @@
+vendor/
+nbproject
+._*
+.vagrant
+.~lock.*
+.buildpath
+.DS_Store
+.idea
+.project
+composer.phar
+data/
